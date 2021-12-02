@@ -1,4 +1,4 @@
-# training-health-metrics-solution
+# training-health-metrics
 Demo project for health and metrics with spring boot
 
 ## Build & Run
